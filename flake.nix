@@ -25,6 +25,7 @@
             nodePackages_latest.prettier
             nodePackages_latest.typescript
             nodePackages_latest.pnpm
+            nodePackages_latest.vercel
           ];
         };
       }
